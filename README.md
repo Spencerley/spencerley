@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Spencer</h1>
-<h3 align="center">A Junior DevOps Engineer</h3>
-
+<h3 align="center">Platform Engineer</h3>
+<p align="left> Currently working in the public sector. Our team focuses on the guardails and protections of AWS accounts and the vending of these accounts. Predominantly working with AWS(including Lambda, SCP, RCP, IAM roles and policies), Golang, Python, Terraform and Bash.</p>
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/spencerley/">LinkedIn </a></h3>
 <p align="left">
 </p>
